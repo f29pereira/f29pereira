@@ -5,6 +5,10 @@
 <p>I value teamwork and continuous learning, always motivated to share knowledge.</p>
 <p>Currently, my main goal is to specialize in web development, focusing on React. I recently obtained certifications in React, React Router, Next.js, TypeScript, and Tailwind CSS, and I've been developing personal projects to consolidate and apply the knowledge I've acquired.</p>
 
+<div align="center">
+  <a href="https://f29pereira.github.io/frontend-mentor-portfolio/aboutMe">🌐 Check my Frontend Mentor Portfolio</a>
+</div>
+
 <h2 align="center">📫 Contacts</h2>
 <div align="center">
   <a href="mailto:f29.pereira@gmail.com">
