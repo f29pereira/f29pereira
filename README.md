@@ -13,40 +13,49 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center">
-  <h3>Frameworks</h3>
+<h3 align="center">Frameworks</h3>
 
+<p align="center">
   <!--Next.js-->
   <a href="https://nextjs.org">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   </a>
+</p>
 
-  <h3>Markup and Styling</h3>
+<h3 align="center">Markup and Styling</h3>
 
+<p align="center">
   <!--HTML-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
+  &nbsp;
   <!--CSS-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
+  &nbsp;
   <!--Tailwind CSS-->
   <a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   </a>
+</p>
 
-  <h3>Programming Languages</h3>
+<h3 align="center">Programming Languages</h3>
 
+<p align="center">
   <!--JavaScript-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <!--TypeScript-->
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
+</p>
 
+<div align="center">
   <h3>Runtime</h3>
 
   <!--Node.js-->
