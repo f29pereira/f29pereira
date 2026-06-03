@@ -27,12 +27,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
-  &nbsp;
   <!--CSS-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
-  &nbsp;
   <!--Tailwind CSS-->
   <a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -44,7 +42,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </a>
-  &nbsp;
   <!--TypeScript-->
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -63,22 +60,18 @@
   <a href="https://reactjs.org">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   </a>
-  &nbsp;
   <!--clsx-->
   <a href="https://www.npmjs.com/package/clsx">
     <img src="https://img.shields.io/badge/clsx-CC0000?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>
-  &nbsp;
   <!--focus-trap-react-->
   <a href="https://www.npmjs.com/package/focus-trap-react">
     <img src="https://img.shields.io/badge/focus--trap--react-CC0000?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>
-  &nbsp;
   <!--React Icons-->
   <a href="https://react-icons.github.io/react-icons/">
     <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   </a>
-  &nbsp;
   <!--HeroIcons-->
   <a href="https://heroicons.com/">
     <img src="https://img.shields.io/badge/Heroicons-6366F1?style=for-the-badge&logo=heroicons&logoColor=white"/>
@@ -95,12 +88,10 @@
   <a href="https://react.dev/learn/react-developer-tools">
     <img src="https://img.shields.io/badge/React_DevTools-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   </a>
-  &nbsp;
   <!--Redux DevTools-->
   <a href="https://github.com/reduxjs/redux-devtools">
     <img src="https://img.shields.io/badge/Redux_DevTools-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   </a>
-  &nbsp;
   <!--Lighthouse-->
   <a href="https://developer.chrome.com/docs/lighthouse">
     <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white"/>
@@ -111,12 +102,10 @@
   <a href="https://jestjs.io/">
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   </a>
-  &nbsp;
   <!--React Testing Library-->
   <a href="https://testing-library.com/">
     <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
   </a>
-  &nbsp;
   <!--Playwright-->
   <a href="https://playwright.dev/">
     <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
@@ -133,7 +122,6 @@
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
   <!--GitHub Actions-->
   <a href="https://github.com/features/actions">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -150,14 +138,11 @@
 
 <h2 align="center">📫 Contacts</h2>
 <div align="center">
-  <a href="mailto:f29.pereira@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:f29.pereira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/filipe-pereira-b757471b9">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://www.frontendmentor.io/profile/f29pereira">
     <img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" />
   </a>
