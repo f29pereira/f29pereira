@@ -66,6 +66,9 @@
 
 <h3 align="center">State Management</h3>
 <p align="center">
+  <!--React Context API-->
+  <a href="https://react.dev/reference/react/createContext"><img src="https://img.shields.io/badge/React_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Context API"/></a>
+  &nbsp;&nbsp;&nbsp;
   <!--Redux Toolkit-->
   <a href="https://redux-toolkit.js.org/"><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/></a>
 </p>
