@@ -51,6 +51,9 @@
   <!--React-->
   <a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
   &nbsp;&nbsp;&nbsp;
+  <!--React Hook Form-->
+  <a href="https://react-hook-form.com/"><img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/></a>
+  &nbsp;&nbsp;&nbsp;
   <!--clsx-->
   <a href="https://www.npmjs.com/package/clsx"><img src="https://img.shields.io/badge/clsx-CC0000?style=for-the-badge&logo=npm&logoColor=white" alt="clsx"/></a>
   &nbsp;&nbsp;&nbsp;
